@@ -75,6 +75,9 @@ Users can dynamically explore the data based on different conditions.
 ## Conclusion
 This project demonstrates how Power BI can be used to transform raw data into actionable business insights. It highlights the importance of data visualization in decision-making and performance tracking.
 
+## dashboard <img width="1905" height="1069" alt="Screenshot 2026-04-06 165303" src="https://github.com/user-attachments/assets/e4f1715f-266c-4a09-b73d-7cb5fce2526d" />
+
+
 ---
 
 ## About Me
