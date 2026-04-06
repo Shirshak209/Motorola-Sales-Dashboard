@@ -12,5 +12,66 @@ The main objectives of this project are:
 - Power Query (Data Cleaning & Transformation)
 - Excel / CSV (Data Source)
 ## Key Metrics
--  Total Sales: **68M**
+- Total Sales: **68M**
+- Total Transactions: **325**
+- Total Quantity Sold: **2K**
+- Average Sales Value: **41.73K**
+## Dashboard Features
+
+### Sales by City
+- Map visualization showing sales distribution across different cities  
+- Helps identify high-performing and low-performing regions  
+
+### Sales by Mobile Model
+- Compares performance of different mobile models  
+- Example: Vivo S1, Galaxy A51, iPhone SE  
+
+### Sales Trend (Daily)
+- Line chart showing fluctuations in sales quantity over time  
+- Helps identify peak and low sales periods  
+
+### Customer Ratings Analysis
+- Visual representation of customer satisfaction levels  
+- Helps understand product/service quality  
+
+### Sales by Day Name
+- Shows which days generate the most sales  
+- Useful for business planning and promotions  
+
+### Payment Method Distribution
+- Breakdown of payment types:
+  - Cash  
+  - Credit Card  
+  - Debit Card  
+  - UPI  
+
+### Brand Performance Table
+- Compares brands like:
+  - Xiaomi  
+  - OnePlus  
+  - Vivo  
+  - Apple  
+  - Samsung  
+
+---
+
+## Interactive Features
+- Filters available for:
+  - Month  
+  - Mobile Model  
+  - Payment Method  
+  - Brand  
+  - Day Name  
+
+Users can dynamically explore the data based on different conditions.
+
+## Key Insights
+- Certain cities contribute significantly higher sales compared to others  
+- Specific mobile models dominate total revenue  
+- Sales vary across days, indicating demand patterns  
+- Digital payment methods (UPI, Cards) are widely used  
+- Customer ratings highlight areas of improvement  
+
+
+
 
