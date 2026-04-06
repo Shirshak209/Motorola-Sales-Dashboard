@@ -71,8 +71,14 @@ Users can dynamically explore the data based on different conditions.
 - Sales vary across days, indicating demand patterns  
 - Digital payment methods (UPI, Cards) are widely used  
 - Customer ratings highlight areas of improvement
-- ## dataset link
-- <a href="https://github.com/Shirshak209/Motorola-Sales-Dashboard/blob/main/mototola.pbix"> </a>
+
+## Conclusion
+This project demonstrates how Power BI can be used to transform raw data into actionable business insights. It highlights the importance of data visualization in decision-making and performance tracking.
+
+---
+
+## About Me
+I am an aspiring Data Analyst with hands-on experience in SQL, Excel, and Power BI. I enjoy working with data to uncover insights and support business decisions.
 
 
 
