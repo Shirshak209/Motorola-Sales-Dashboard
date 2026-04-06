@@ -79,6 +79,10 @@ This project demonstrates how Power BI can be used to transform raw data into ac
 
 
 ---
+## Acknowledgement
+This project was inspired by a tutorial from Satish Dhawale's YouTube channel.  
+
+I followed the tutorial to understand how to build interactive dashboards in Power BI, and used it as a learning exercise to improve my data visualization and analytical skills.
 
 ## About Me
 I am an aspiring Data Analyst with hands-on experience in SQL, Excel, and Power BI. I enjoy working with data to uncover insights and support business decisions.
